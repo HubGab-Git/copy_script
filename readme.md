@@ -20,31 +20,31 @@ When you have installed Python and/or Glang:
 
 Clone this repo to local machine:
 
-	```md
-	git clone https://github.com/HubGab-Git/copy_script.git
-	```
+```md
+git clone https://github.com/HubGab-Git/copy_script.git
+```
 
 If you would like run Python script Enter python folder:
 
-	```md
-	cd copy_script/python
-	```
+```md
+cd copy_script/python
+```
 
-    run example:
-    ```md
-	python copy.py -s . -d ../
-	```
+run example:
+```md
+python copy.py -s . -d ../
+```
 
 If you would like run Golang script Enter python folder:
 
-	```md
-	cd copy_script/golang
-	```
+```md
+cd copy_script/golang
+```
 
-    run example:
-    ```md
-	go run main.go -s . -d ../
-	```
+run example:
+```md
+go run main.go -s . -d ../
+```
 
 Above examples copy all files from current directory to parent directory
 
